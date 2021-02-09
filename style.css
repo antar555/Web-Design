@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.main{
+    /* background-color: rosybrown; */
+    height: 400px;
+    width: 78%;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+
+    
+}
+.mid{
+    background-color: red;
+    height: 400px;
+    width: 10%;
+    margin: auto;
+    position: absolute;
+}
+.mid1{
+    background-color: blue;
+    height: 400px;
+    width: 10%;
+    margin: auto;
+    
+    
+    /* top:0; */
+    
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+}
+.mid2{
+    background-color: wheat;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 201px;
+    position: absolute;
+    
+}
+.mid3{
+    background-color: black;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 302px;
+    position: absolute;
+
+}
+.mid4{
+    background-color: green;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 402px;
+    position: absolute;
+
+}
+.mid5{
+    background-color: khaki;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 502px;
+    position: absolute;
+
+}
+.mid6{
+    background-color: skyblue;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 602px;
+    position: absolute;
+
+}
+.mid7{
+    background-color: orangered;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 702px;
+    position: absolute;
+
+}
+.mid8{
+    background-color: palegreen;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 802px;
+    position: absolute;
+
+}
+.mid9{
+    background-color: limegreen;
+    height: 400px;
+    width: 10%;
+    margin: 0px 0px 0px 902px;
+    position: absolute;
+
+}
+body{
+    background-color: whitesmoke;
+   
+    
+    background-size: cover;
+}
